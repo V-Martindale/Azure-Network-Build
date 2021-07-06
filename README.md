@@ -1,5 +1,4 @@
-# CyberSecurityA-
-Culmination of UCLA Cybersecurity work
+# Azure Netwrok Build
 Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
@@ -17,7 +16,9 @@ This document contains the following details:
 - How to Use the Ansible Build
 
 
-Description of the Topology
+Description of the Topology!
+
+[image](https://user-images.githubusercontent.com/78939147/124669143-c3ec3600-de66-11eb-971c-49a4894e9d32.png)
 
 The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
 
